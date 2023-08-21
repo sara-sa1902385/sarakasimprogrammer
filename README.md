@@ -10,7 +10,8 @@ Meet Sara Ali, a passionate and driven computer science student with a deep enth
 * 📱 KOTLIN
 
 - 🔭 I’m currently working on Website creation 
-- 🌱 I’m currently learning Front-end development 
+- 🌱 I’m currently learning Front-end development
+- 📫 How to reach me: Feel free to contact me throught twitter DM 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sarakasimprogrammer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sarakasimtech)  
